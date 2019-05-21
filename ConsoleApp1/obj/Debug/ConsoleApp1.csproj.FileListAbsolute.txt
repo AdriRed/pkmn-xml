@@ -1,0 +1,81 @@
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+D:\Users\Adri\Documents\Visual Studio Projects\ProyectoClase\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\mscorlib.dll
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\es\mscorlib.resources.dll
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\fr\mscorlib.resources.dll
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\it\mscorlib.resources.dll
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\pt-PT\mscorlib.resources.dll
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\normidna.nlp
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfc.nlp
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfd.nlp
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkc.nlp
+G:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkd.nlp
+G:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+G:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+G:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.Cache
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\mscorlib.dll
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\es\mscorlib.resources.dll
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\fr\mscorlib.resources.dll
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\it\mscorlib.resources.dll
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\pt-PT\mscorlib.resources.dll
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\normidna.nlp
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfc.nlp
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfd.nlp
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkc.nlp
+E:\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkd.nlp
+E:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+E:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.Cache
+F:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\mscorlib.dll
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\es\mscorlib.resources.dll
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\fr\mscorlib.resources.dll
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\it\mscorlib.resources.dll
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\pt-PT\mscorlib.resources.dll
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\normidna.nlp
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfc.nlp
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfd.nlp
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkc.nlp
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\normnfkd.nlp
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+E:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.Cache
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.Form1.resources
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.GenerateResource.cache
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Visual Studio Projects\ProyectoPkmn\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
